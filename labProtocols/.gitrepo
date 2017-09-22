@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/labProtocols.git
+	branch = master
+	commit = 923caca41802560cdbdd6ca1aa190163570c66c2
+	parent = 7ab3a195e8a03c82f68a73bbd0cdf46111e4c0f6
+	cmdver = 0.3.1
