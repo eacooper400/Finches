@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eacooper400/snpAnalysis.git
+	branch = master
+	commit = d7ac62fcc420cc5cfceae6630da044bce7551dc3
+	parent = 14213efe2aa363afe07f2ea0894b9e737dc18ea9
+	cmdver = 0.3.1
