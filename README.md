@@ -1,5 +1,5 @@
 # Finches
-Scripts and Instructions from "Genomic variation at the tips of the adaptive radiation of Darwin's finches"
+Scripts and Instructions from !["Genomic variation at the tips of the adaptive radiation of Darwin's finches"](http://onlinelibrary.wiley.com/doi/10.1111/mec.13743/full)
 
 ### labProtocols
 Contains detailed lab protocols for constructing the dRAD Illumina library, including all primer and adapter sequences.
